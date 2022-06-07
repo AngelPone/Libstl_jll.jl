@@ -5,8 +5,8 @@ libgfortran_version = "5.0.0"
 os = "macos"
 
     [[libstl.download]]
-    sha256 = "b1723557a7a9273c3c83b5d970e21fd395f0132edb7f223020a1dd4012cdc7fc"
-    url = "https://github.com/AngelPone/Libstl_jll.jl/releases/download/libstl-v0.0.1+0/libstl.v0.0.1.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "39b50ea0de3895057c871d93dee0afa653704b3914af38e83ed2615961ff5994"
+    url = "https://github.com/AngelPone/Libstl_jll.jl/releases/download/libstl-v0.0.2+0/libstl.v0.0.2.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[libstl]]
 arch = "x86_64"
 git-tree-sha1 = "3185eceb85e7ff85df6ec3b9c7ea31320378b4d6"
@@ -14,8 +14,8 @@ libgfortran_version = "3.0.0"
 os = "macos"
 
     [[libstl.download]]
-    sha256 = "e295bb713f63d8bf0ec528bd7ebd26168adfb88327d6da34b7872dad9a90c548"
-    url = "https://github.com/AngelPone/Libstl_jll.jl/releases/download/libstl-v0.0.1+0/libstl.v0.0.1.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "43adfe83a271b23808eadc609e47d046d3613a901b564560d3d2ec9b309cf136"
+    url = "https://github.com/AngelPone/Libstl_jll.jl/releases/download/libstl-v0.0.2+0/libstl.v0.0.2.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[libstl]]
 arch = "x86_64"
 git-tree-sha1 = "19a4e33778893a45cb10c0b7f322be2d05d542e2"
@@ -23,8 +23,8 @@ libgfortran_version = "4.0.0"
 os = "macos"
 
     [[libstl.download]]
-    sha256 = "f5c4ac6ddbd865ebe7cacdf5f2d904e95ae841226501f7ec3f07eb48a5da4351"
-    url = "https://github.com/AngelPone/Libstl_jll.jl/releases/download/libstl-v0.0.1+0/libstl.v0.0.1.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "2366929e336b1dbd59e5b009998565d35142aea3951ce7e109c6d73a1dd038aa"
+    url = "https://github.com/AngelPone/Libstl_jll.jl/releases/download/libstl-v0.0.2+0/libstl.v0.0.2.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[libstl]]
 arch = "x86_64"
 git-tree-sha1 = "3a902e44458974692b49a52c48998766d07c6013"
@@ -32,5 +32,5 @@ libgfortran_version = "5.0.0"
 os = "macos"
 
     [[libstl.download]]
-    sha256 = "bce099b0bb76c48e7061e76aed8aaeb59afd40aa79e8aac0565bd1bb4dc33c37"
-    url = "https://github.com/AngelPone/Libstl_jll.jl/releases/download/libstl-v0.0.1+0/libstl.v0.0.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "b281809c03f0f56ebb82986e88d282533a13db1d345114b49f66c5de3264dfcb"
+    url = "https://github.com/AngelPone/Libstl_jll.jl/releases/download/libstl-v0.0.2+0/libstl.v0.0.2.x86_64-apple-darwin-libgfortran5.tar.gz"
