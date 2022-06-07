@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `libstl_jll.jl` have been built from these sources:
 
-* files in directory, relative to originating `build_tarballs.jl`: `./deps`
+* git repository: https://github.com/AngelPone/TimeSeriesDecomposition.jl (revision: `121eec3206f68ebeeb4050b318e082afb2800830`)
 
 ## Platforms
 
